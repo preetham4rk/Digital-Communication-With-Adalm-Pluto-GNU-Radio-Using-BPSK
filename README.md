@@ -1,0 +1,2 @@
+# Digital-Communication-With-Adalm-Pluto-GNU-Radio-Using-BPSK
+Designed and implemented an end-to-end digital communication system using ADALM-Pluto SDR and GNU Radio to transmit and receive voice signals with BPSK modulation. The project includes pulse shaping using an RRC filter, differential encoding/decoding, carrier recovery using Costas Loop, and  audio reconstruction for reliable SDR communication.
